@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Data (StatsBomb Open Data)
+data/events/
+data/matches/
+data/lineups/
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
